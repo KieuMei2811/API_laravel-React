@@ -248,7 +248,7 @@ class ShowProduct extends Component {
                                         </div>
                                         <div className="form-group">
                                             <label htmlFor="inputPromotionPrice">
-                                                Promotion Price
+                                                Promotion Price 
                                             </label>
                                             <input type="number" min={10000} className="form-control" name="inputPromotionPrice" id="inputPromotionPrice" placeholder="Enter promotion price" />
                                         </div>
